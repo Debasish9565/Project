@@ -11,6 +11,12 @@
       "name": "debasish",
       "password": "deb1234",
       "id": 2
+    },
+    {
+      "email": "debasish@gmail.com",
+      "name": "debasish",
+      "password": "debasish1234",
+      "id": 3
     }
   ]
 }
